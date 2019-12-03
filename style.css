@@ -1,0 +1,33 @@
+.container {
+    background: rgba(216, 207, 207, 0.452);
+}
+
+.content {
+    background: white;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    height: 100px;
+    padding: 50px;
+    border: 1.5px dashed #666666;
+}
+
+#button1 {
+    background: rgb(214, 51, 51);
+    color: white;
+}
+
+#button2 {
+    background: lightgray;
+    color: white;
+    float: right;
+}
+
+h3, h4 {
+    text-align: center;
+    color: #666666
+}
